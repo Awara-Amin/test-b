@@ -1,0 +1,167 @@
+body {margin: 0;
+}
+
+h1 {
+  margin-top:0 }
+
+/* div {
+  background-color: #E4F9F5;
+} */
+
+
+.t-container{
+  background-color: #f0fff0;
+  text-align: center;
+  /* border: solid 10px; */
+  /* padding: 20px; */
+  /* margin-top: 210px; */
+  /* position: relative;
+  left: 500px; */
+  /* position: absolute;
+  left: 220px; */
+}
+
+.firstCloude{
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+.unititle{
+  margin-top: 50px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Merriweather;
+}
+
+
+.divsecondcloude{
+  /* width: 150px; */
+  position: absolute;
+  bottom: 470px;
+  left: 270px;
+
+}
+.secondCloude {
+}
+
+.glasgowpicture{
+  width: 500px;
+  border-radius: 25px;
+
+}
+
+.info{
+  margin-bottom: 100px;
+}
+
+
+
+
+.m-container{
+  background-color: #fdf5e6;
+  /* height: 200px;
+  width: 200px;
+  background-color: red;
+  /* margin-top: 470px; */
+  /* border: solid 20px; */
+  /* position: relative;
+  left: 260px; */
+  /* position: absolute; */
+  /* left: 470px; */
+  /* top:470px; */
+
+}
+
+.profile{
+  text-align: center;
+}
+.profilepicture{
+  width: 400px;
+}
+
+hr{
+  width: 50%;
+  border-style: dashed;
+
+
+}
+
+.profiletext{
+  width: 400px;
+  margin-left: 510px;
+}
+
+.skills{
+  text-align: center;
+}
+
+
+.skill-row{
+  margin-top: 50px;
+}
+.coffetitle{
+  font-family:Merriweather;
+  margin-bottom: 80px;
+
+}
+.coffeimage{
+  margin-left: 410px;
+
+
+}
+.float{
+  float: right;
+  margin-right: 400px;
+  text-align: left;
+
+}
+.coffetext{
+width: 400px;
+}
+
+.floatsecond {
+  float: left;
+  text-align: left;
+  margin-left: 500px;
+  margin-top: 20px;
+
+}
+.cacketext{
+width: 400px;
+}
+.cakeimage{
+  margin-right: 250px;
+
+}
+
+.contact-me{
+  text-align: center;
+
+}
+.contactdeteail{
+  width:400px;
+  margin-left: 500px;
+}
+.b-container{
+
+  background-color: #48d1cc;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  /* margin: 0px; */
+  /* border: solid 10px; */
+  /* position: relative;
+  bottom: 500px; */
+  /* position: absolute;
+  top:0px;
+  left: 0px; */
+
+}
+.footer-link {
+  font-size: 30px;
+  margin-right: 20px;
+
+}
+.getintouch{
+  font-family:Righteous;
+}
